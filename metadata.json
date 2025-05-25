@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Portfolio",
+  "description": "A sleek, single-page personal portfolio application built with React, TypeScript, and Tailwind CSS, featuring smooth scrolling, scrollspy navigation, and animated sections.",
+  "requestFramePermissions": []
+}
