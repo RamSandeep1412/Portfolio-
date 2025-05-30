@@ -50,7 +50,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Software Developer ',
     description: 'Redesigned and optimized core modules for order processing and inventory management using .NET Framework, ASP.NET MVC, Web API, and React.js, improving system performance and frontend usability.Enhanced API efficiency, refactored legacy code into modular React components, and improved UI responsiveness, resulting in faster load times and increased user task efficiency.',
     imageUrl: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VsfOU78JZ2XyMEp-cgj-iQ.jpeg',
-    technologies: ['React', 'C#', 'AsP.NET Web API', 'Entity Framework'],
+    technologies: ['React','Hooks','Redux',"Jest", 'C#', 'AsP.NET Web API', 'Entity Framework','Azure'],
     responsibilities: [
       'Contributed to the design and enhancement of core modules, including order processing and inventory management, using .NET Framework, ASP.NET MVC, and React.js.',
       'Boosted data retrieval performance and enabled seamless frontend feature integration by developing new ASP.NET Web API endpoints and optimizing existing ones.',
@@ -63,7 +63,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Europa',
     description: 'Developed and delivered a full-stack web application using C# and .NET Core Web API, designing secure RESTful APIs that improved data processing speed by 20% and boosted system scalability. Built efficient backend logic and data access layers with Entity Framework Core and SQL Server, reducing query latency by 25%, and ensured code quality through comprehensive MSTest unit testing.',
     imageUrl: 'https://www.cromacampus.com/public/uploads/Blog/2022/12/week_3/Dot-NET-Full-Stack-Developer.webp',
-    technologies: ['Next.js', 'TypeScript', 'GraphQL', 'Gemini API'],
+    technologies: ['C#', 'ASP.NET Web API', 'MSTest', 'Cosmos DB','Entity Framework','KQL','Azure'],
     responsibilities: [
       ' Engineered and delivered a full-stack web application utilizing C#, .NET Core Web API for backend services.',
       ' Designed and implemented RESTful APIs for secure data exchange, resulting in a 20% improvement in data processing speed and enhanced system scalability',

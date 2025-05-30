@@ -21,7 +21,7 @@ const HomeSection: React.FC = () => {
     >
       <div className="flex flex-col md:flex-row items-center justify-center gap-12 text-center md:text-left">
         <div className="md:w-1/2 order-2 md:order-1">
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-4">
+          <h1 className="text-7xl sm:text-5xl lg:text-5xl font-extrabold mb-4">
             Hi, I'm <span className="text-indigo-400">{HOME_DATA.name}</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-300 mb-6">{HOME_DATA.title}</p>
